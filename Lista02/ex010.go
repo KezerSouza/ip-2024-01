@@ -1,4 +1,3 @@
-//Centenas, dezenas, unidades
 package main
 import "fmt"
 
